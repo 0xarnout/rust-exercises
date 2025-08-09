@@ -1,0 +1,10 @@
+[package]
+name = "hello_http_server"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ctrlc = "3.4.7"
+
+[lib]
+name = "threading"
